@@ -9,7 +9,7 @@
 
 This repository contains assignments, projects, and solutions for the **Deep Learning - Optimized Battery Charging** course offered by Apple. The course focuses on applying machine learning and deep learning techniques to real-world problems, specifically tackling challenges related to **battery lifespan** and **performance optimization**. The course encourages a **learning-by-doing** approach, with a focus on practical skills necessary for machine learning engineers.
 
-![Optimized Battery Charging](https://www.smartphonesplus.com/wp-content/uploads/2020/04/optimized-battery-charging-apple-iphone-ios-13-1000x435.jpg)
+![Optimized Battery Charging](https://blog.yimingliu.com/wp-content/uploads/2023/01/find-optimized-battery-charging.png)
 
 ## Key Learning Objectives
 

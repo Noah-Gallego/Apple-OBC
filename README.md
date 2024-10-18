@@ -59,7 +59,7 @@ Throughout the course, collaboration with other learners is encouraged via Slack
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/apple-ml-course.git
+   git clone https://github.com/Noah-Gallego/Apple-OBC.git
     ```
 2. Install required libraries:
 ```bash

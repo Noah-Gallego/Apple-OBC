@@ -23,6 +23,17 @@ The repository is organized as a sequence of notebooks and supporting helpers co
 - Jupyter Notebook
 - PyTorch and TensorFlow references in the notebooks
 
+### Important libraries
+
+- pandas
+- PyTorch
+- TensorFlow (referenced in the notebooks)
+
+## Data references
+
+- [AI Education Battery Charging dataset](https://trove.apple.com/dataset/aiedu_battery_charging/1.0.0)
+- [Run/Walk Motion dataset](https://trove.apple.com/dataset/run_walk_motion/1.0.0)
+
 ## Usage
 
 Open the notebooks in their numbered or descriptive folders with Jupyter. Run them with the data and helper files expected by each notebook.

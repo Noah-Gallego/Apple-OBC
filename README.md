@@ -2,6 +2,10 @@
 
 Coursework and notebook exercises exploring data preparation, feature engineering, and neural-network classification for optimized battery charging.
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,jupyter&theme=light" alt="Python, PyTorch, and Jupyter" />
+</p>
+
 ## Overview
 
 The repository is organized as a sequence of notebooks and supporting helpers covering exploratory analysis through model development. The folders include:

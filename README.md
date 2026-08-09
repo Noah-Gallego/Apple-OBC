@@ -1,72 +1,28 @@
-# Deep Learning Course - Optimized Battery Charging (Apple ML Course) 
+# Apple Optimized Battery Charging
 
-![Python](https://img.shields.io/badge/Python-v3.8-blue.svg)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-v2.0-orange.svg)
-![PyTorch](https://img.shields.io/badge/PyTorch-v1.9-red.svg)
-![Status](https://img.shields.io/badge/Course-Active-green.svg)
+Coursework and notebook exercises exploring data preparation, feature engineering, and neural-network classification for optimized battery charging.
 
-## Course Overview
+## Overview
 
-This repository contains assignments, projects, and solutions for the **Deep Learning - Optimized Battery Charging** course offered by Apple. The course focuses on applying machine learning and deep learning techniques to real-world problems, specifically tackling challenges related to **battery lifespan** and **performance optimization**. The course encourages a **learning-by-doing** approach, with a focus on practical skills necessary for machine learning engineers.
+The repository is organized as a sequence of notebooks and supporting helpers covering exploratory analysis through model development. The folders include:
 
-![Optimized Battery Charging](https://blog.yimingliu.com/wp-content/uploads/2023/01/find-optimized-battery-charging.png)
+- `EDA` — exploratory analysis exercises.
+- `Feature_Engineering` — battery-data feature engineering.
+- `DataLoaders_Part_One` and `Dataset_Model_Prep_Final` — dataset and loader preparation.
+- `Defining_Dataset_Ex` and `Working_With_Tensors` — introductory dataset and tensor work.
+- `Classification_Model`, `NN_Solution`, and `Refactor_Activity_Classification` — classification-model exercises and solutions.
+- `Loss_Vis_Ex` — loss visualization, with `helpers.py` support.
 
-## Key Learning Objectives
+## Tech stack
 
-Throughout the course, I am learning to:
-- **Frame a Machine Learning Problem**: Understand the desired impacts and the data required to train models for battery optimization.
-- **Data Cleaning and Transformation**: Prepare datasets for model training by addressing missing values, handling noise, and engineering relevant features.
-- **Build and Train Deep Learning Models**: Implement neural networks using **Turi Bolt**, **PyTorch**, and other deep learning frameworks.
-- **Evaluate Models**: Compare and evaluate different models using metrics and user experience considerations, ensuring their practical applicability.
+- Python
+- Jupyter Notebook
+- PyTorch and TensorFlow references in the notebooks
 
-## Projects and Assignments
+## Usage
 
-### 1. **Optimized Battery Charging Problem Framing**
-   - **Objective**: Frame the problem of optimizing battery lifespan by translating user needs into data-driven tasks.
-   - **Techniques**: Machine learning problem framing, data exploration, and feature engineering.
-   - **Outcome**: A clear breakdown of the data required to predict battery charge duration and improve charging efficiency.
+Open the notebooks in their numbered or descriptive folders with Jupyter. Run them with the data and helper files expected by each notebook.
 
-### 2. **Deep Learning for Battery Optimization**
-   - **Objective**: Build a simple neural network to predict battery performance metrics.
-   - **Tools**: PyTorch, Python, and Turi Bolt.
-   - **Outcome**: Developed a model to analyze battery charging data and predict battery health under varying conditions.
+## Status
 
-### 3. **Model Experimentation with PyTorch**
-   - **Objective**: Explore different PyTorch models and fine-tune hyperparameters using Turi Bolt.
-   - **Techniques**: Model experimentation, hyperparameter tuning, and PyTorch scripting.
-   - **Outcome**: Ran multiple PyTorch models and optimized their performance using Turi Bolt’s integration with PyTorch.
-
-## Tools and Technologies
-
-- **Programming Languages**: Python
-- **Libraries and Frameworks**: TensorFlow, PyTorch, Turi Bolt, Jupyter
-- **Machine Learning Concepts**: Feature engineering, neural networks, gradient descent, hyperparameter tuning
-- **Data Visualization**: Matplotlib, Seaborn for visualizing model performance and battery data trends
-
-## Course Structure
-
-The course is designed around several modules, each with its own set of hands-on assignments and projects. These include:
-- **Problem Framing**: Define the problem in terms of data needs and user experience.
-- **Data Preparation**: Clean, transform, and engineer features from battery data.
-- **Model Building**: Develop and experiment with deep learning models using **PyTorch**.
-- **Model Evaluation**: Compare models based on performance metrics and optimize using hyperparameter tuning.
-
-## Slack and Study Groups
-
-Throughout the course, collaboration with other learners is encouraged via Slack and study groups. This allows for peer learning, resource sharing, and additional support from the education team.
-
-## How to Run the Code
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Noah-Gallego/Apple-OBC.git
-    ```
-2. Install required libraries:
-```bash
-pip install torch torchvision matplotlib seaborn
-```
-3. Open Jupyter notebooks for assignments and project solutions:
-```bash
-jupyter notebook
-```
-4. Run the notebooks in sequence for each module.
+This is a collection of course exercises. The repository does not include a root dependency manifest or automated test suite.

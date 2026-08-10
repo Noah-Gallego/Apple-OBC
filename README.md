@@ -17,6 +17,10 @@ The repository is organized as a sequence of notebooks and supporting helpers co
 - `Classification_Model`, `NN_Solution`, and `Refactor_Activity_Classification` — classification-model exercises and solutions.
 - `Loss_Vis_Ex` — loss visualization, with `helpers.py` support.
 
+## Preview
+
+![Battery charging-state comparison chart](https://noah-readme-assets-v4.vercel.app/Apple-OBC/notebook-cell28-output0.png)
+
 ## Tech stack
 
 - Python

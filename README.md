@@ -21,18 +21,6 @@ The repository is organized as a sequence of notebooks and supporting helpers co
 
 ![Battery charging-state comparison chart](https://noah-readme-assets-v4.vercel.app/Apple-OBC/notebook-cell28-output0.png)
 
-## Tech stack
-
-- Python
-- Jupyter Notebook
-- PyTorch and TensorFlow references in the notebooks
-
-### Important libraries
-
-- pandas
-- PyTorch
-- TensorFlow (referenced in the notebooks)
-
 ## Data references
 
 - [AI Education Battery Charging dataset](https://trove.apple.com/dataset/aiedu_battery_charging/1.0.0)

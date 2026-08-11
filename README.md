@@ -33,3 +33,16 @@ Open the notebooks in their numbered or descriptive folders with Jupyter. Run th
 ## Status
 
 This is a collection of course exercises. The repository does not include a root dependency manifest or automated test suite.
+
+> [!TIP]
+> Start with the exploratory-analysis and feature-engineering notebooks before the classification exercises; each folder documents a distinct stage of the course sequence.
+
+## Notebook progression
+
+```mermaid
+flowchart LR
+    A[EDA notebooks] --> B[Feature engineering]
+    B --> C[Dataset and loader preparation]
+    C --> D[Tensor and classification exercises]
+    D --> E[Loss visualization and refactoring]
+```
